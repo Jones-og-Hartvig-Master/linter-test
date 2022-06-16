@@ -1,0 +1,165 @@
+{
+    "approved": [
+        {
+            "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+            "repo_name": "WaveFunctionCollapse",
+            "maintainer": "mxgmn",
+            "detected_smells": 16
+        },
+        {
+            "url": "https://github.com/bchavez/Bogus",
+            "repo_name": "Bogus",
+            "maintainer": "bchavez",
+            "detected_smells": 137
+        },
+        {
+            "url": "https://github.com/aalhour/C-Sharp-Algorithms",
+            "repo_name": "C-Sharp-Algorithms",
+            "maintainer": "aalhour",
+            "detected_smells": 89
+        },
+        {
+            "url": "https://github.com/dotnet-state-machine/stateless",
+            "repo_name": "stateless",
+            "maintainer": "dotnet-state-machine",
+            "detected_smells": 1
+        },
+        {
+            "url": "https://github.com/JoshClose/CsvHelper",
+            "repo_name": "CsvHelper",
+            "maintainer": "JoshClose",
+            "detected_smells": 234
+        },
+        {
+            "url": "https://github.com/commandlineparser/commandline",
+            "repo_name": "commandline",
+            "maintainer": "commandlineparser",
+            "detected_smells": 84
+        },
+        {
+            "url": "https://github.com/ClosedXML/ClosedXML",
+            "repo_name": "ClosedXML",
+            "maintainer": "ClosedXML",
+            "detected_smells": 1
+        },
+        {
+            "url": "https://github.com/icsharpcode/SharpZipLib",
+            "repo_name": "SharpZipLib",
+            "maintainer": "icsharpcode",
+            "detected_smells": 119,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/dotnet/command-line-api",
+            "repo_name": "command-line-api",
+            "maintainer": "dotnet",
+            "detected_smells": 39,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/sqlkata/querybuilder",
+            "repo_name": "querybuilder",
+            "maintainer": "sqlkata",
+            "detected_smells": 6,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/sjdirect/abot",
+            "repo_name": "abot",
+            "maintainer": "sjdirect",
+            "detected_smells": 25,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/filipw/dotnet-script",
+            "repo_name": "dotnet-script",
+            "maintainer": "filipw",
+            "detected_smells": 88,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/QuestPDF/QuestPDF",
+            "repo_name": "QuestPDF",
+            "maintainer": "QuestPDF",
+            "detected_smells": 46,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/sprache/Sprache",
+            "repo_name": "Sprache",
+            "maintainer": "sprache",
+            "detected_smells": 9,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/natemcmaster/CommandLineUtils",
+            "repo_name": "CommandLineUtils",
+            "maintainer": "natemcmaster",
+            "detected_smells": 19,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/PlummersSoftwareLLC/Primes",
+            "repo_name": "Primes",
+            "maintainer": "PlummersSoftwareLLC",
+            "detected_smells": 246,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/adamhathcock/sharpcompress",
+            "repo_name": "sharpcompress",
+            "maintainer": "adamhathcock",
+            "detected_smells": 1370,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/ardalis/SmartEnum",
+            "repo_name": "SmartEnum",
+            "maintainer": "ardalis",
+            "detected_smells": 9,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/dynamicexpresso/DynamicExpresso",
+            "repo_name": "DynamicExpresso",
+            "maintainer": "dynamicexpresso",
+            "detected_smells": 34,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/tomakita/Colorful.Console",
+            "repo_name": "Colorful.Console",
+            "maintainer": "tomakita",
+            "detected_smells": 1,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/waf/CSharpRepl",
+            "repo_name": "CSharpRepl",
+            "maintainer": "waf",
+            "detected_smells": 13,
+            "checked_manually": false
+        },
+        {
+            "url": "https://github.com/lionsoul2014/ip2region",
+            "repo_name": "ip2region",
+            "maintainer": "lionsoul2014",
+            "detected_smells": 40,
+            "checked_manually": true
+        },
+        {
+            "url": "https://github.com/Tyrrrz/DiscordChatExporter",
+            "repo_name": "DiscordChatExporter",
+            "maintainer": "Tyrrrz",
+            "detected_smells": 78,
+            "checked_manually": true
+        },
+        {
+            "url": "https://github.com/bepu/bepuphysics2",
+            "repo_name": "bepuphysics2",
+            "maintainer": "bepu",
+            "detected_smells": 1707,
+            "checked_manually": true
+        }
+    ]
+}

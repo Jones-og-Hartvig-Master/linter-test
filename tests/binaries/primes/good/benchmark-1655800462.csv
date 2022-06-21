@@ -1,0 +1,2 @@
+zone,time_elapsed,power_j,watts,watts_since_last,start_power,prev_power,prev_power_reading,temp
+package-0,0.002221587,0.0,0.0,0.0,102651.385466,0.0,102651.385466,27.799999237060547

@@ -1,0 +1,6 @@
+C:\Users\H\RiderProjects\AlgoTest\AlgoTest\obj\Debug\net48\AlgoTest.csproj.AssemblyReference.cache
+C:\Users\H\RiderProjects\AlgoTest\AlgoTest\obj\Debug\net48\AlgoTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\H\RiderProjects\AlgoTest\AlgoTest\obj\Debug\net48\AlgoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\RiderProjects\AlgoTest\AlgoTest\obj\Debug\net48\AlgoTest.AssemblyInfoInputs.cache
+C:\Users\H\RiderProjects\AlgoTest\AlgoTest\obj\Debug\net48\AlgoTest.AssemblyInfo.cs
+C:\Users\H\RiderProjects\AlgoTest\AlgoTest\obj\Debug\net48\AlgoTest.csproj.CoreCompileInputs.cache

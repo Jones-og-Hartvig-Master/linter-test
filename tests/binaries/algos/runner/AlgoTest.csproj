@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Algorithms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>E:\Users\H\Documents\GitHub\C-Sharp-Algorithms\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
